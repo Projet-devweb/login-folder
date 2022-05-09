@@ -1,0 +1,36 @@
+.card-header{
+    background-color: lightblue;
+}
+
+.card-body{
+    text-align: center;
+    background-color: blue;
+    height: 250px;
+    
+}
+
+.centre{
+    
+    float: center;
+}
+
+.gauche{
+    float: left;
+}
+
+.droite{
+    float: right;
+}
+.card-header{
+    text-align: center;
+    color: black;
+}
+
+.card {
+    background-color: rgb(77, 125, 223);
+    border: none;
+    border-radius: 3%;
+    padding: 15px;
+    margin-top: 5%;
+    margin-left: 7%;
+}
